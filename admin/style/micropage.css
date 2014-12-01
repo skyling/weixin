@@ -1,0 +1,14 @@
+﻿/*charset utf-8*/
+body{font-family: '新宋体'，'黑体';}
+.top{float:left;width:750px;height:40px;color: #6C6C6c;margin:0;font-size: 25px;font-weight: bold;}
+.top .Tleft{float:left;width: 300px;}
+.top .Tright{float: right;width: 300px;text-align: right;font-size: 14px;margin-top:3px;}
+.context{float: left;width: 100%;margin: -15px 0px 0px 0px;}
+.context table{width: 100%;}
+.context table th,tr,td{height: auto;text-align: center;border: 1px solid #EEEEEE;}
+.context .tr1{height:30px;line-height:30px;font-size:18px;background-color:#3E96D6;}
+.context .tr2{height:25px;font-size: 12px;}
+.context .lookInfo{font-size: 16px;margin:5px 0px 5px 0px;color:#6C6C6C;border-bottom: 1px solid #EEEEEE;}
+.context #page_num{height: 30px;line-height: 30px;text-align: center;font-size: 13px;color: #6C6C6C;margin-top: 5px;border:0px solid #EEEEEE;}
+.context #page_num a:link,a:visited,a:active{color:#3E96D6;text-decoration:none;}a:hover{text-decoration: underline;}
+.modiv{border-bottom: 1px solid #EEEEEE;margin-top: 5px;padding: 20px 0px 0px 10px;}

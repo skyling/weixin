@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<!-- created by WAPtor (http://www.waptop.net/) -->
+<!DOCTYPE wml PUBLIC "-//WAPFORUM//DTD WML 1.1//EN" "http://www.wapforum.org/DTD/wml_1.1.xml">
+
+<wml>
+
+<!-- THIS IS THE FIRST CARD IN THE DECK -->
+<card id="MainCard" title="开放时间">
+<p align="center">
+<big ><b>开放时间</b>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<table columns="2" align="center" >
+<tr><td>星期</td><td>　　开放时间</td></tr>
+<tr><td></td><td>　　</td></tr>
+<tr><td>周一到周六　　</td><td>　　8:00-22:00</td></tr>
+<tr><td></td><td>　　</td></tr>
+<tr><td>周日</td><td>　　未开放</td></tr>
+
+</table>
+</big>
+
+
+
+</p>
+
+</card>
+
+</wml>
